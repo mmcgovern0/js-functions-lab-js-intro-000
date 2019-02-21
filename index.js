@@ -1,14 +1,9 @@
 // write your code below!
-var name = 'you';
-var holiday = 'Christmas';
-var days = 250;
-
-
 function happyHolidays() {
   return "Happy holidays!"
 };
 
-function happyHolidaysTo(name) {
+function happyHolidaysTo(you) {
   return `Happy holidays, ${name}!`
 };
 
